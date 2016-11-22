@@ -1,0 +1,14 @@
+﻿Build started 10/20/2015 5:50:58 PM.
+     1>Project "E:\School\Software Dev\C++\Final Project Auto Loan Calculator\Final Project Auto Loan Calculator\Final Project Auto Loan Calculator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\school\software dev\c++\final project auto loan calculator\final project auto loan calculator\source.cpp(171): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\School\Software Dev\C++\Final Project Auto Loan Calculator\Debug\Final Project Auto Loan Calculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\School\Software Dev\C++\Final Project Auto Loan Calculator\Debug\Final Project Auto Loan Calculator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\School\Software Dev\C++\Final Project Auto Loan Calculator\Debug\Final Project Auto Loan Calculator.lib" /MACHINE:X86 Debug\Source.obj
+         Final Project Auto Loan Calculator.vcxproj -> E:\School\Software Dev\C++\Final Project Auto Loan Calculator\Debug\Final Project Auto Loan Calculator.exe
+     1>Done Building Project "E:\School\Software Dev\C++\Final Project Auto Loan Calculator\Final Project Auto Loan Calculator\Final Project Auto Loan Calculator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.90
